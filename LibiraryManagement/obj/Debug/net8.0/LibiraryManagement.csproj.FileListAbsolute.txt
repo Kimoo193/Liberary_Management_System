@@ -1,0 +1,14 @@
+C:\Users\kimoo\source\repos\LibiraryManagement\LibiraryManagement\obj\Debug\net8.0\LibiraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimoo\source\repos\LibiraryManagement\LibiraryManagement\obj\Debug\net8.0\LibiraryManagement.AssemblyInfoInputs.cache
+C:\Users\kimoo\source\repos\LibiraryManagement\LibiraryManagement\obj\Debug\net8.0\LibiraryManagement.AssemblyInfo.cs
+C:\Users\kimoo\source\repos\LibiraryManagement\LibiraryManagement\obj\Debug\net8.0\LibiraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\kimoo\source\repos\LibiraryManagement\LibiraryManagement\bin\Debug\net8.0\LibiraryManagement.exe
+C:\Users\kimoo\source\repos\LibiraryManagement\LibiraryManagement\bin\Debug\net8.0\LibiraryManagement.deps.json
+C:\Users\kimoo\source\repos\LibiraryManagement\LibiraryManagement\bin\Debug\net8.0\LibiraryManagement.runtimeconfig.json
+C:\Users\kimoo\source\repos\LibiraryManagement\LibiraryManagement\bin\Debug\net8.0\LibiraryManagement.dll
+C:\Users\kimoo\source\repos\LibiraryManagement\LibiraryManagement\bin\Debug\net8.0\LibiraryManagement.pdb
+C:\Users\kimoo\source\repos\LibiraryManagement\LibiraryManagement\obj\Debug\net8.0\LibiraryManagement.dll
+C:\Users\kimoo\source\repos\LibiraryManagement\LibiraryManagement\obj\Debug\net8.0\refint\LibiraryManagement.dll
+C:\Users\kimoo\source\repos\LibiraryManagement\LibiraryManagement\obj\Debug\net8.0\LibiraryManagement.pdb
+C:\Users\kimoo\source\repos\LibiraryManagement\LibiraryManagement\obj\Debug\net8.0\LibiraryManagement.genruntimeconfig.cache
+C:\Users\kimoo\source\repos\LibiraryManagement\LibiraryManagement\obj\Debug\net8.0\ref\LibiraryManagement.dll
